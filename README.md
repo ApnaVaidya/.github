@@ -1,2 +1,1 @@
-# .github
-Public Readme File
+Apna Vaidya is an AI-powered healthcare platform that revolutionizes healthcare delivery in India by providing comprehensive services, seamless integration with government initiatives and payment systems, and improved access to quality healthcare for all Indians.
